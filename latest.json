@@ -1,0 +1,14 @@
+{
+ "versionCode": 1,
+ "versionName": "1.0.0",
+ "apk": "https://github.com/alshala7i/AM_Car-releases/releases/download/v1.0.0/AM_Car-1.0.0.apk",
+ "sha256": "15c279500355c55720cc25ba4354904bd14ed7029fdfece2588f41888485c945",
+ "size": 160688,
+ "notes": "AM_Car first release: activation, gauges, widgets, automations, store, cluster bridge.",
+ "published": "2026-10-05T23:26:45Z",
+ "minSdk": 23,
+ "targetSdk": 33,
+ "package": "com.amcar.app",
+ "rights": "© 2026 AM_Car — All rights reserved.",
+ "contact": "@AM_CarApp"
+}
