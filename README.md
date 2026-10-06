@@ -6,8 +6,11 @@ Published by **@AM_CarApp** (TikTok · Instagram). © 2026 AM_Car — All rights
 ## Install
 
 ```bash
-adb install -r AM_Car-1.0.0.apk
+adb install -r AM_Car-1.9.2.apk
 ```
+
+Only the newest build is kept here — publishing a release replaces the previous one, so the
+repository always holds exactly one APK plus `latest.json`.
 
 Then open AM_Car, copy the **vehicle device code** from the activation screen and send it to
 `@AM_CarApp`. The licence file you receive goes to:
