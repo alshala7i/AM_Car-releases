@@ -6,7 +6,7 @@ Published by **@AM_CarApp** (TikTok · Instagram). © 2026 AM_Car — All rights
 ## Install
 
 ```bash
-adb install -r AM_Car-1.9.2.apk
+adb install -r AM_Car-1.9.5.apk
 ```
 
 Only the newest build is kept here — publishing a release replaces the previous one, so the
